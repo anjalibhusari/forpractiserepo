@@ -6,6 +6,7 @@ public class Demo2 {
 	{
 		System.out.println("Welcome to Github");
 		
+		System.out.println("new repo");
 
 	}
 
