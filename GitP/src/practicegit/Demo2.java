@@ -9,5 +9,11 @@ public class Demo2 {
 		System.out.println("new repo");
 
 	}
+	
+	public void m1()
+	{
+         System.out.println("Method1");
+		
+	}
 
 }
